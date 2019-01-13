@@ -1,2 +1,3 @@
 # KenticoMat
-Mat's experimental code
+Mat's GitHub training code
+
